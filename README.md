@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **The Snag CLI has moved into the main Snag repo: [saakshigupta2002/snag](https://github.com/saakshigupta2002/snag/tree/main/cli).** Its full history came with it and new work happens there. Install it with:
+>
+> ```bash
+> pipx install "git+https://github.com/saakshigupta2002/snag#subdirectory=cli"
+> snag setup    # connects Claude Code and Codex
+> ```
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/assets/logo-dark.png">
